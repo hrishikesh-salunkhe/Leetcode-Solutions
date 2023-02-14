@@ -20,6 +20,8 @@ class MovingAverage {
         }
 
         System.out.println(summ);
+
+        //We check whether we have reached the window size or not
         if(counter < size){
             return (summ/(counter));
         }
