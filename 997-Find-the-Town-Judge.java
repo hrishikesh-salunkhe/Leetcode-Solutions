@@ -1,3 +1,5 @@
+//PROBLEM URL: https://leetcode.com/problems/find-the-town-judge/description/
+
 class Solution {
     public int findJudge(int n, int[][] trust) {
 
